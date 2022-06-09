@@ -29,6 +29,14 @@
     color: #4a4a4a;
     padding: 10px;
 }
+.lista a {
+    text-decoration: none;
+    color: #4a4a4a;
+}
+
+.lista a:hover {
+    color:#3CDBC0; 
+}
 
 .main {
     width: 100vw;
